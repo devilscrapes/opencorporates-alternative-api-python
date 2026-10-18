@@ -1,0 +1,15 @@
+{
+  "searchQueries": [
+    "Blue Sky Consulting LLC"
+  ],
+  "jurisdictions": [
+    "NY",
+    "CO"
+  ],
+  "fetchOfficers": true,
+  "maxResultsPerQuery": 5,
+  "statusFilter": "any",
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
