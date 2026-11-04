@@ -127,10 +127,9 @@ Each row is one entity that one state returned for one of your names, so a singl
 
 | Event | Price (USD) |
 |---|---|
-| Actor start | $0.05 |
 | Result row emitted | $0.005 |
 
-Prices as configured on 2026-08-12. The [Actor page](https://apify.com/DevilScrapes/opencorporates-alternative-scraper) always shows the current price. Runs are billed to the Apify account that owns the token. Use `--max-charge` to cap what a single run can cost.
+Prices as configured on 2026-11-03. The [Actor page](https://apify.com/DevilScrapes/opencorporates-alternative-scraper) always shows the current price. Runs are billed to the Apify account that owns the token. Use `--max-charge` to cap what a single run can cost.
 
 ## 🛠️ Working with the data in Python
 
